@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://SITE-ADRESINIZ/sitemap.xml
+Sitemap: https://serumenjeksiyon.com/sitemap.xml
